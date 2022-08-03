@@ -1,6 +1,8 @@
 # Library-Management-System
 A lightweight Library Management System built using C.
 
+![alt text](https://drive.google.com/file/d/1r8gx2Ro2Ar77Ir29lorcbFf6aIjRV3HF/view?usp=sharing)
+
 Instructions for running the code and observing the output :
 
 ***** It is recommended to run the program on a LINUX machine from terminal ***** 
