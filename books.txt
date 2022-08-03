@@ -1,0 +1,35 @@
+Oliver Twist,Charles Dickens,1000 5
+Hard Times,Charles Dickens,1001 5
+Bleak House,Charles Dickens,1002 5
+David Copperfield,Charles Dickens,1003 5
+Little Dorrit,Charles Dickens,1004 5
+The Haunted House,Charles Dickens,1005 5
+Crooked House,Agatha Christie,1006 3
+Endless Night,Agatha Christie,1007 3
+Curtain,Agatha Christie,1008 3
+Sleeping Murder,Agatha Christie,1009 3
+Five Little Pigs,Agatha Christie,1010 3
+Sandition,Jane Austen,1011 2
+Lady Susan,Jane Austen,1012 2
+Emma,Jane Austen,1013 2
+Persuasion,Jane Austen,1014 2
+Juvenilia,Jane Austen,1015 2
+Lesley Castle,Jane Austen,1016 2
+Four Tragedies,William Shakespeare,1017 1
+Julius Caesar,William Shakespeare,1018 1
+Macbeth,William Shakespeare,1019 1
+Matilda,Roald Dahl,1020 4
+The BFG,Roald Dahl,1021 4
+The Witches,Roald Dahl,1022 4
+The Twits,Roald Dahl,1023 4
+Esio Trot,Roald Dahl,1024 4
+The Leader in You,Dale Carnegie,1025 1
+Think and Grow Rich,Napolean Hill,1026 1
+The Warren Buffett Way,Robert G Hagstorm,1027 1
+Zero to One,Peter Thiel,1028 1
+The Power of Habit,Charles Duhigg,1029 1
+The Millionaire Fastlane,MJ Demarco,1030 1
+The 4-hour Work week,Timothy Ferriss,1031 1
+Money Master the Game,Tony Robbins,1032 1
+The Intelligent Investor,Benjamin Graham,1033 1
+Rich Dad Poor Dad,Robert T Kiyosaki,1034 1
