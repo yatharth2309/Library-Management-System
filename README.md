@@ -3,9 +3,9 @@ A lightweight Library Management System built using C.
 
 Instructions for running the code and observing the output :
 
-				   ***** It is recommended to run the program on a LINUX machine from terminal ***** 
+***** It is recommended to run the program on a LINUX machine from terminal ***** 
 
-                 ***** Please run the program in fullscreen for best experience *****
+***** Please run the program in fullscreen for best experience *****
       
 1. The soure code is written in lib.c . It is a menu driven program. At the end of each function, you will be prompted to go back to the main menu.
 
